@@ -1,2 +1,2 @@
 # Some-Algorithm-and-Data-Structure
-Some of the algorithms that is regularly used in problem solving
+# Open file for the related code
