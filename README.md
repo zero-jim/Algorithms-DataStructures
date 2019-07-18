@@ -1,2 +1,2 @@
-# Some-Algorithm-and-Data-Structure
-# Open file for the related code
+# Algorithms&DataStructure
+>> **_File name gives the code for related topic_**
